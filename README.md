@@ -1,4 +1,4 @@
-# Beginner-calculator-Python-projects-
+# Beginner-calculator-Python-project
 # 🧮 Simple Calculator in Python  
 
 This is my first Python project! 🎉  
